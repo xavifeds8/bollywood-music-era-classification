@@ -1,4 +1,4 @@
-## Gender Classification Using sequential Neural networks
+## Bollywood Genre Using sequential Neural networks
 
 We use the frame level audio features which summarize frequency content within short intervals
 of time. Comparatively, more recent music information retrieval tasks take advantage of temporal
