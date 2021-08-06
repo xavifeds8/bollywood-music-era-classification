@@ -1,12 +1,10 @@
 ## Bollywood Genre Using sequential Neural networks
 
-We use the frame level audio features which summarize frequency content within short intervals
-of time. Comparatively, more recent music information retrieval tasks take advantage of temporal
-structure in audio spectrograms using deep convolutional and recurrent models. a Convolutional
-Sequential Neural Network (CNN), is applied to the dataset under a comprehensive set of
-conditions. These include audio clip length, which is a novel contribution in this work, and
-previously identified considerations such as dataset split and feature level. Additionally, to
-showcase the effectiveness of CNN's feature extraction capabilities, we visualize audio samples
-at the model’s bottleneck layer demonstrating that learned representations segment into clusters
-belonging to their respective artists. Index Terms—artist classification, music, information
-retrieval, deep learning, convolutional recurrent neural network
+* The frame level audio features  summarizes frequency content within short intervals
+of time.
+* The data set is created using fast Fourier transform algorithm and the mel spectogram is extracted.
+* The song era is classified using CNN algorithm based on the mel spectograms
+
+### The mel spectogram of various eras
+![Annotation 2021-08-06 231341](https://user-images.githubusercontent.com/65709700/128551054-9613c56c-5788-4ef7-9971-2f635e4cc561.png)
+
