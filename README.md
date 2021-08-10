@@ -1,4 +1,4 @@
-## Bollywood Genre Using sequential Neural networks
+## Bollywood Genre Using Convolutional Neural networks
 
 * The frame level audio features  summarizes frequency content within short intervals
 of time.
